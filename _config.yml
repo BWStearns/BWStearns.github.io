@@ -1,0 +1,11 @@
+# Site settings
+title: Hack from a Bar
+email: brianw.stearns@gmail.com
+description: "This is Brian's personal site/blog etc. Expect random programming related posts at sporadic intervals."
+baseurl: #"http://www.brianws.io"
+url: #"http://brianw.io"
+github_username:  BWStearns
+
+# Build settings
+markdown: kramdown
+permalink: pretty
